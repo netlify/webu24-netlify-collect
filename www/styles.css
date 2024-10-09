@@ -59,68 +59,12 @@ form > div:not(:last-child) {
   margin-bottom: 1rem;
 }
 
-/* ---- Marquee ---- */
-
-.header-marquee {
-  border-bottom: 1px solid var(--blue-800);
-  border-top: 1px solid var(--blue-800);
-  margin: 1.5rem 0;
-  overflow: hidden;
-  padding: 1.5rem 0;
-  width: 100%;
-}
-
-.marquee-track {
-  display: flex;
-  animation: marquee 30s linear infinite;
-}
-
-.marquee-content {
-  align-items: center;
-  display: flex;
-  gap: 2rem;
-  padding-right: 2rem;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.prize,
-.win {
-  font-family: var(--font-headings);
-  font-size: var(--step-2);
-  font-weight: 800;
-}
-
-.win {
-  text-transform: uppercase;
-  color: var(--blue-600);
-}
-
-.shape-1,
-.shape-2 {
-  width: 1.25rem;
-}
-
-@keyframes marquee {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
-/* Pause animation on hover */
-.header-marquee:hover .marquee-track {
-  animation-play-state: paused;
-}
-
 /* ---- Masthead ---- */
 
 .masthead {
   margin: 0 auto;
   max-width: 50rem;
-  padding: 4rem 1.5rem 3rem;
+  padding: 5rem 1.5rem 3rem;
   text-align: center;
 }
 
@@ -134,6 +78,11 @@ form > div:not(:last-child) {
   font-family: var(--font-headings);
   font-size: var(--step-2);
   font-weight: 600;
+}
+
+.masthead strong {
+  font-weight: 800;
+  text-decoration: underline;
 }
 
 .conf-subhead {
