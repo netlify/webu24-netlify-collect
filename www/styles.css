@@ -139,9 +139,20 @@ section[data-state='completed'] {
   margin: 0 0 1rem;
 }
 
-.primitives-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+.primitives-progress h3 {
+  margin: 2rem 0 0.5rem;
+  font-size: var(--step-2);
+}
+
+.primitives-progress p {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.primitives-stars {
+  display: flex;
+  align-items: center;
   gap: 1rem;
 }
 
