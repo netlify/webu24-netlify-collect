@@ -10,14 +10,16 @@ To get started, you need to:
 
    [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/webu24-netlify-collect)
 
-2. Once successfully deployed, you are automatically registered on the leaderboard. Visit your new site and follow the steps on screen to fill in the necessary details to collect your initial deployment reward.
+2. Once successfully deployed, you've begun the process for submitting your entry into the contest.
 
-3. Then it's time to collect all the primitives! Make your way around Web Unleashed to find Netlifolks (we'll be wearing blue shirts). Ask us which primitive we represent, and then type that primitive into your site to collect it.
+3. Visit your new site to add a name for your entry and then collect your first primitive.
 
-4. Those who collect at least 6 primitives (there are 9 total) will be entered into the grand prize drawing.
+4. Continue collecting primitives by finding Netlifolks around Web Unleashed (we'll be wearing blue shirts). Ask us which primitive we represent, and then type that primitive into your site to collect it.
+
+5. Those who collect at least 6 primitives (there are 9 total) will be entered into the grand prize drawing. More details below.
 
 ### Grand prize drawing
 
-This is designed for those who are in-person at Web Unleashed 2024. The competition will be locked on Saturday, October 12.
+This is designed for those who are in-person at Web Unleashed 2024. The competition will be locked on Friday, October 11 at 2:00 PM ET.
 
-We will complete the grand prize drawing the following week by picking one entry at random from all entries with at least 6 primitives.
+The grand prize drawing will be made on Day 2 of Web Unleashed 2024. Listen to during the events for more instructions.
